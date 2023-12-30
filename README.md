@@ -9,9 +9,6 @@ Software Developer & OpenSource Enthusiast
 * 🤝  I'm open to collaborating on exciting projects as a software developer.
 * ⚡  I turn coffe into code
 
-<a href="https://www.github.com/asmitdash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/asmitdash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
