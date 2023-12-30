@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & OpenSource Enthusiast
 ------------------------------------------
 
+(img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstore.outsourcingpundit.com%2Fwp-content%2Fuploads%2F2019%2F01%2Ffocus-animation.gif&f=1&nofb=1&ipt=963bed51d4cbddf7a5953fb446d25aa3ab9571d46642d1cafba6721459300ac9&ipo=images")
+
 * 🌍  I'm based in Mumbai, Maharashtra
 * ✉️  You can contact me at [asmitdash44@gmail.com](mailto:asmitdash44@gmail.com)
 * 🧠  I'm learning JavaScript
