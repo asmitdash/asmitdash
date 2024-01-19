@@ -5,7 +5,7 @@ Software Developer & OpenSource Enthusiast
 ------------------------------------------
 * 🌍  I'm based in Mumbai, Maharashtra
 * ✉️  You can contact me at [asmitdash44@gmail.com](mailto:asmitdash44@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on exciting projects as a software developer.
 * ⚡  I turn coffe into code
 
