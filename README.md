@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asmit Dash
+Hey, My name is Asmit Dash
 ==================================================================================================================================
 
-Software Developer & OpenSource Enthusiast
+Machine Learning Developer & OpenSource Enthusiast
 ------------------------------------------
 * 🌍  I'm based in Mumbai, Maharashtra
 * ✉️  You can contact me at [asmitdash44@gmail.com](mailto:asmitdash44@gmail.com)
 * 🧠  I'm learning NodeJS
-* 🤝  I'm open to collaborating on exciting projects as a software developer.
+* 🤝  I'm open to collaborating on exciting projects as a ML developer.
 * ⚡  I turn coffe into code
 
 ### Skills
